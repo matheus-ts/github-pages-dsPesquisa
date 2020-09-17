@@ -20,7 +20,10 @@ const Routes = () => (
             <Route path="/charts">
                 <Charts />
             </Route>
-            <Route path="https://matheuscandidobandtec.github.io/github-pages-dsPesquisa/">
+            <Route path="/github-pages-dsPesquisa/">
+                <Home />
+            </Route>
+            <Route path="https://matheuscandidobandtec.github.io/">
                 <Home />
             </Route>
         </Switch>
