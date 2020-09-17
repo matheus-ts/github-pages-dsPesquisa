@@ -20,6 +20,9 @@ const Routes = () => (
             <Route path="/charts">
                 <Charts />
             </Route>
+            <Route path="https://matheuscandidobandtec.github.io/github-pages-dsPesquisa/">
+                <Home />
+            </Route>
         </Switch>
     </BrowserRouter>
 );
