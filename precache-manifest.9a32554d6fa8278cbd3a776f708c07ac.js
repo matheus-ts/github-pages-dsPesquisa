@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1adf5aa82763993bda3ec65b48238162",
+    "revision": "be25c755fe3774d9a05ee23043758125",
     "url": "/github-pages-dsPesquisa/index.html"
   },
   {
-    "revision": "531a1c3e888bfbe2a1d8",
+    "revision": "b5dcfbf6b4d3ccbdc4a2",
     "url": "/github-pages-dsPesquisa/static/css/main.3c3308dc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-pages-dsPesquisa/static/js/2.5ae23a94.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "531a1c3e888bfbe2a1d8",
-    "url": "/github-pages-dsPesquisa/static/js/main.0834e47d.chunk.js"
+    "revision": "b5dcfbf6b4d3ccbdc4a2",
+    "url": "/github-pages-dsPesquisa/static/js/main.5cd9fa70.chunk.js"
   },
   {
     "revision": "90974e725be41dffae3e",
