@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/github-pages-dsPesquisa/static/css/main.3c3308dc.chunk.css",
-    "main.js": "/github-pages-dsPesquisa/static/js/main.48651849.chunk.js",
-    "main.js.map": "/github-pages-dsPesquisa/static/js/main.48651849.chunk.js.map",
+    "main.js": "/github-pages-dsPesquisa/static/js/main.0834e47d.chunk.js",
+    "main.js.map": "/github-pages-dsPesquisa/static/js/main.0834e47d.chunk.js.map",
     "runtime-main.js": "/github-pages-dsPesquisa/static/js/runtime-main.486c54c6.js",
     "runtime-main.js.map": "/github-pages-dsPesquisa/static/js/runtime-main.486c54c6.js.map",
     "static/js/2.5ae23a94.chunk.js": "/github-pages-dsPesquisa/static/js/2.5ae23a94.chunk.js",
     "static/js/2.5ae23a94.chunk.js.map": "/github-pages-dsPesquisa/static/js/2.5ae23a94.chunk.js.map",
     "index.html": "/github-pages-dsPesquisa/index.html",
-    "precache-manifest.7ddd026a4d34c33a5bda45d86ddb9857.js": "/github-pages-dsPesquisa/precache-manifest.7ddd026a4d34c33a5bda45d86ddb9857.js",
+    "precache-manifest.0c6402bd6af2d5ac857a94ab1763846f.js": "/github-pages-dsPesquisa/precache-manifest.0c6402bd6af2d5ac857a94ab1763846f.js",
     "service-worker.js": "/github-pages-dsPesquisa/service-worker.js",
     "static/css/main.3c3308dc.chunk.css.map": "/github-pages-dsPesquisa/static/css/main.3c3308dc.chunk.css.map",
     "static/js/2.5ae23a94.chunk.js.LICENSE.txt": "/github-pages-dsPesquisa/static/js/2.5ae23a94.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.486c54c6.js",
     "static/js/2.5ae23a94.chunk.js",
     "static/css/main.3c3308dc.chunk.css",
-    "static/js/main.48651849.chunk.js"
+    "static/js/main.0834e47d.chunk.js"
   ]
 }
